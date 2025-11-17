@@ -1,3 +1,4 @@
+# Variables
 INPUT_FILE := ./main.lua
 OUTPUT_FILE := ./output/bundle.lua
 EXAMPLE_INPUT_FILE := ./example/main.lua
