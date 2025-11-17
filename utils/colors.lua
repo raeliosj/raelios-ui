@@ -1,8 +1,8 @@
 --[[
-	EzUI Color Palette Module
+	RaeUI Color Palette Module
 	Dark Mode Color Scheme for Roblox GUI
 	
-	Author: EzUI Library
+	Author: RaeUI Library
 	Version: 1.0.0
 	
 	Usage:
